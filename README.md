@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatimah Al Mousa</h1>
 <h3 align="center">A passionate AI & Data Analysis enthusiast</h3>
 
-- 🔭 I’m currently working on **Funds Allocation System with an Anti-Embezzlement Mechanism**
 
 - 🌱 I’m currently learning **Python for Data Science, Machine Learning, Power BI, SQL**
 
