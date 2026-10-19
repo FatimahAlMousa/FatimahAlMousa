@@ -23,7 +23,6 @@
 
 ## 👩🏻‍💻 About Me
 
-- 🎓 Recent Computer Information Systems graduate from Imam Abdulrahman Bin Faisal University, with a GPA of **4.25/5.00**.
 - 📊 Interested in data analysis, preprocessing, visualization, and machine learning, using data to find patterns and support better decisions.
 - 🧠 I enjoy building practical projects, exploring datasets, and turning complex information into clear results.
 - 🌱 Currently growing my skills in Python, Power BI, SQL, and applied machine learning.
@@ -75,7 +74,6 @@
 
 | Project | Highlights |
 | --- | --- |
-| [Manea – Fund Allocation & Expense Tracking](https://github.com/FatimahAlMousa/Manea-Graduation-Project-) | Graduation project with OCR invoice extraction, rule-based validation, fraud indicators, and audit-ready transaction records. |
 | [Indian Liver Patient Data Analysis & Classification](https://github.com/FatimahAlMousa/Indian-Liver-Patient-Data-Analysis-and-Classification-Using-Python) | Preprocessed and analyzed a 583-record dataset, then trained and compared classification models. |
 | [SWaT Anomaly Detection](https://github.com/FatimahAlMousa/SWaT-Anomaly-Detection) | Explored industrial sensor and actuator data and applied anomaly detection, primarily Isolation Forest. |
 | [Smart Emergency](https://github.com/FatimahAlMousa/Smart-Emergency-Arcadia-Hackathon-) | AI-assisted health monitoring web app with vital-sign analysis, emergency detection, and ambulance-dispatch simulation. |
@@ -88,33 +86,8 @@
 - Designed relational database schemas and role-based access control, and built backend authentication logic.
 - Integrated the Moyasar payment gateway for transaction processing.
 
-## 🎓 Education & Training
 
-- **B.Sc. Computer Information Systems** · Imam Abdulrahman Bin Faisal University · 2021–2026 · GPA: **4.25/5.00**
-- Samsung Innovation Campus AI Program · Misk · 2026
-- McKinsey Forward Program · McKinsey & Company · 2026
-- Master Data Analysis with Excel · Microsoft · 2025
-- Power BI Essentials 101–103 · Satr Platform · 2025
-- Cybersecurity Fundamentals · IBM · 2025
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/FatimahAlMousa">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FatimahAlMousa&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Fatimah's GitHub statistics">
-</a>
-<a href="https://github.com/FatimahAlMousa">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimahAlMousa&layout=compact&theme=radical&hide_border=true" alt="Fatimah's most-used languages">
-</a>
-
-<br>
-
-<a href="https://github.com/FatimahAlMousa">
-  <img height="170" src="https://streak-stats.demolab.com?user=FatimahAlMousa&theme=radical&hide_border=true" alt="Fatimah's GitHub contribution streak">
-</a>
-
-</div>
 
 ---
 
